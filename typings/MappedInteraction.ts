@@ -1,0 +1,1 @@
+type TMappedInteraction = 'modals' | 'buttons'
